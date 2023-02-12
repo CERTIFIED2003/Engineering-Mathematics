@@ -1,0 +1,43 @@
+1) Walk
+2) Open Walk
+3) CLosed Walk
+
+4) Trail
+5) Circuit
+6) Path
+7) Cycle
+
+8) Complete Graph
+9) Regular Graph
+10) Bipartite Graph
+11) Complete Bipartite Graph
+
+------------------------------------------------
+
+• The minimum number of edges in a
+connected graph with n vertices is n-1
+
+• The maximum number of edges in a
+connected simple graph with n vertices is
+𝑛(𝑛−1)/2
+
+• The minimum number of edges in a
+graph with n vertices and k components
+is n-k
+
+• A simple graph with n vertices and k
+components can have at most
+(𝑛−𝑘)(𝑛−𝑘+1)/2 
+
+------------------------------------------------
+
+1) Eulerian Graph
+• Eulerian Trail
+• Eulerian Circuit
+
+2) Hamiltonian Graph
+• Hamiltonian Circuit
+
+-> Dirac's Theorem
+-> Ore's Theorem
+------------------------------------------------

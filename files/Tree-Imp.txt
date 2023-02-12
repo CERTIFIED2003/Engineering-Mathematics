@@ -1,0 +1,20 @@
+-> A graph G with n vertices is a Tree, then it has (n-1) edges.
+
+1) Tree
+2) Forest
+3) Minimally Connected Graph
+4) Spanning Tree
+5) Minimum Spanning Tree
+6) Prims's Algorithm
+7) Kruskal's Algorithm
+8) Binary Tree
+
+n= Total No. of Vertices;
+k= Total no. of Pendant Vertices;
+m= Total no. of Internal Vertices;
+e= Total no. of Edges
+
+=> n = k+m
+=> k = (𝑛+1)/2
+=> m = n-k
+=> e = n-1
